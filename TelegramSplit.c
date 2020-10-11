@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#define VERSION "v1.0"
+#define VERSION "v1.1"
 #define _1MB 1048576
 #define _1500MB 1500 * _1MB
-#define FILE_SIZE_LIMIT _1500MB
+#define _2000MB 2000 * _1MB
+#define FILE_SIZE_LIMIT _2000MB
 
 
 void int_to_string(unsigned int value, char* buf, int size);

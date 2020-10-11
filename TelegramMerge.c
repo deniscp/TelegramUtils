@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#define VERSION "v1.0"
+#define VERSION "v1.1"
 
 
 int main(int argc, char** argv)
